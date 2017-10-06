@@ -5,7 +5,7 @@ import 'package:den_api/src/pubspec.dart';
 import 'package:den_api/src/package_dep.dart';
 import 'package:path/path.dart' as p;
 import 'package:pub_semver/pub_semver.dart';
-import 'package:unittest/unittest.dart';
+import 'package:test/test.dart';
 import 'package:yaml/yaml.dart';
 
 main() {
